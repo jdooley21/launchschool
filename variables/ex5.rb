@@ -1,0 +1,1 @@
+The first prints 3 to the screen. The second throws an undefined local variable error because x is only defined in the scope of the block.
